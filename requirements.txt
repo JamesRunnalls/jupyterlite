@@ -29,7 +29,6 @@ jupyterlab-night
 # JupyterLab: Miami nights theme (optional)
 jupyterlab_miami_nights
 jupyterlab-open-url-parameter
-jupyterlab-autorun-notebook
 
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.1.3,<9
